@@ -3,6 +3,10 @@
 FollowUp AI is a serverless application that helps users create, manage, and receive intelligent follow-up reminders using AWS cloud services.
 
 ## Architecture Overview
+
+## Architecture Diagram
+<img width="1408" height="768" alt="architecture-diagram png" src="https://github.com/user-attachments/assets/9df7193d-a729-4329-9dc4-5048a4c03c9d" />
+
 The system uses a fully serverless architecture:
 - Amazon API Gateway to receive user requests
 - AWS Lambda for request processing and scheduling logic
